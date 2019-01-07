@@ -1,0 +1,5 @@
+KeePass Dictionary Attack Python 3
+
+Requirements:
+
+libkeepass - pip3 install libkeepass
